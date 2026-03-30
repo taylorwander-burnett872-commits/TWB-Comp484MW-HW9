@@ -14,7 +14,7 @@ getFullYear()
 isInteger()
 toFixed()
 
-Pages Link: 
+Pages Link: https://taylorwander-burnett872-commits.github.io/TWB-Comp484MW-HW9/
 
 Screenshot Path: comp484-hw9-main\screenshot.png
 
